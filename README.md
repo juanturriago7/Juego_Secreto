@@ -8,6 +8,10 @@
 
 Welcome to the Guess the Secret Number Game! A simple but entertaining web game where you test your intuition to guess a randomly generated number.
 
+## 🖼️ Preview
+
+<img src=https://imgur.com/a/gRNK0x4" width="800px"/> 
+
 ## 📜 Description
 
 This is a classic "guess the number" game. The application randomly generates a secret number, and the player must try to guess it in the fewest attempts possible. The interface is clean, intuitive, and easy to use.
@@ -35,10 +39,10 @@ This project was built using standard web technologies:
 ## 🚀 Live Demo
 You can play it right now by visiting the project's GitHub Pages site:
 
-Play Guess the Secret Number
+[Play Guess the Secret Number](https://juanturriago7.github.io/Juego_Secreto/)
 
 ## 🎮 How to Play
-1. Open the game link.
+1. Open the [game link.](https://juanturriago7.github.io/Juego_Secreto/)
 
 2. Enter a number in the text field.
 
@@ -49,8 +53,8 @@ Play Guess the Secret Number
 5. Keep trying until you guess the number!
 
 ## ✍️ Author
-Juan Turriago
+**Juan Turriago**
 
-GitHub: @juanturriago7
+GitHub: [@juanturriago7](https://github.com/juanturriago7)
 
-LinkedIn: Juan Turriago
+LinkedIn: [Juan Turriago](https://www.linkedin.com/in/juan-sebastian-turriago-delgado-8360061b1/)
