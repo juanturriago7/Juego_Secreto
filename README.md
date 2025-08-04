@@ -1,4 +1,5 @@
-#**🎲 Guess the Secret Number Game**
+**🎲 Guess the Secret Number Game**
+
 Welcome to the Guess the Secret Number Game! A simple but entertaining web game where you test your intuition to guess a randomly generated number.
 
 📜 Description
