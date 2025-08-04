@@ -10,7 +10,7 @@ Welcome to the Guess the Secret Number Game! A simple but entertaining web game 
 
 ## 🖼️ Preview
 
-<img src=https://imgur.com/a/gRNK0x4" width="800px"/> 
+<img src="https://imgur.com/a/gRNK0x4" width="800px"/>
 
 ## 📜 Description
 
