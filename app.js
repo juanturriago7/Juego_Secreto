@@ -57,7 +57,7 @@ function generarNumeroSecretro() {
 
 function condicionesIniciales() {
   //Indicar mensaje de intervalo de números
-  asignarTextoElemento("h1", "Número secretro!");
+  asignarTextoElemento("h1", "Número secreto!");
   asignarTextoElemento("p", `Indica un número del 1 al ${numeroMaximo}`);
   //Generar el número aleatorio
   numeroSecretro = generarNumeroSecretro();
@@ -75,3 +75,4 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
+
