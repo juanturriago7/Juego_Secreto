@@ -1,45 +1,54 @@
-**🎲 Guess the Secret Number Game**
+# 🎲 Guess the Secret Number Game
+
+<p align="center" > 
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+</p>
 
 Welcome to the Guess the Secret Number Game! A simple but entertaining web game where you test your intuition to guess a randomly generated number.
 
-📜 Description
+## 📜 Description
+
 This is a classic "guess the number" game. The application randomly generates a secret number, and the player must try to guess it in the fewest attempts possible. The interface is clean, intuitive, and easy to use.
 
-✨ Features
-Interactive Gameplay: A user-friendly interface for the user to enter their numbers.
+## ✨ Features
 
-Dynamic Hints: The game tells you if the secret number is higher or lower than your guess.
+- **Interactive Gameplay:** A user-friendly interface for the user to enter their numbers.
 
-Easy Resets: You can start a new game at any time with a single click.
+- **Dynamic Hints:** The game tells you if the secret number is higher or lower than your guess.
 
-Responsive Design: Adapts to different screen sizes for a consistent experience.
+- **Easy Resets:** You can start a new game at any time with a single click.
 
-🛠️ Technologies Used
+- **Responsive Design:** Adapts to different screen sizes for a consistent experience.
+
+## 🛠️ Technologies Used
+
 This project was built using standard web technologies:
 
-HTML5: For the structure and content of the page.
+- **HTML5:** For the structure and content of the page.
 
-CSS3: For the design, styles, and animations.
+- **CSS3:** For the design, styles, and animations.
 
-JavaScript: For all the game logic and interactivity.
+- **JavaScript:** For all the game logic and interactivity.
 
-🚀 Live Demo
+## 🚀 Live Demo
 You can play it right now by visiting the project's GitHub Pages site:
 
 Play Guess the Secret Number
 
-🎮 How to Play
-Open the game link.
+## 🎮 How to Play
+1. Open the game link.
 
-Enter a number in the text field.
+2. Enter a number in the text field.
 
-Click the "Intentar" ("Guess") button.
+3. Click the "Intentar" ("Guess") button.
 
-The game will tell you if your number is correct or if the secret number is higher or lower.
+4. The game will tell you if your number is correct or if the secret number is higher or lower.
 
-Keep trying until you guess the number!
+5. Keep trying until you guess the number!
 
-✍️ Author
+## ✍️ Author
 Juan Turriago
 
 GitHub: @juanturriago7
